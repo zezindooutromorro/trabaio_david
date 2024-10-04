@@ -42,6 +42,16 @@
     text-align: left;
 }
 
+.product-img {
+    width: 100%;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.product-img:hover {
+    transform: scale(1.05);
+}
+
 .product-item img {
     width: 100%;
     border-radius: 8px;
