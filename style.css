@@ -42,6 +42,12 @@
     text-align: left;
 }
 
+
+.product-item img {
+    width: 100%;
+    border-radius: 8px;
+}
+
 .product-img {
     width: 100%;
     border-radius: 10px;
@@ -50,11 +56,6 @@
 
 .product-img:hover {
     transform: scale(1.05);
-}
-
-.product-item img {
-    width: 100%;
-    border-radius: 8px;
 }
 
 .product-item h3 {
