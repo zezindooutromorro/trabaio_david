@@ -113,14 +113,9 @@ footer {
     text-align: center;
 }
 
-.footer-links a {
-    margin: 0 10px;
-    text-decoration: none;
-    color: #000;
-}
-
-.contact-info {
-    margin: 10px 0;
+footer p {
+    color: #333; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Tipo de fonte */
 }
 
 .social-media a {
