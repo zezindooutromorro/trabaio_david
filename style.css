@@ -14,7 +14,7 @@ header {
 }
 
 header:hover {
-    background-color: #535353;
+   background-color: #666;
     height: 50px; /* Altura ao passar o mouse */
 }
 
