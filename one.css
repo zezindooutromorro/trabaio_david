@@ -24,8 +24,8 @@ h1 {
 }
 
 .product-image {
-    width: 80%;
-    height: 80%;
+    width: 100vh;
+    height: 100vh;
    
     
 }
