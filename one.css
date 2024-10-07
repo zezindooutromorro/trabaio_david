@@ -26,8 +26,8 @@ h1 {
 .product-image {
     width: 80%;
     height: 80%;
-    border-radius: 10px;
-    transition: transform 0.3s;
+   
+    
 }
 
 .product-image:hover {
