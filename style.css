@@ -8,7 +8,9 @@
 
 
 header {
-    background-color: #000;
+    background-image: url('jean.jpg'); /* Altere para o caminho da sua imagem */
+    background-size: cover; /* Faz com que a imagem cubra todo o header */
+    background-position: center; /* Centraliza a imagem */
     height: 80px;
     transition: background-color 0.3s ease, height 0.3s ease;
     display: flex;
