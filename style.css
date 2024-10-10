@@ -42,6 +42,10 @@ header ul li {
     margin-left: 20px; /* Espaçamento entre os itens */
 }
 
+header nav ul li h2{
+    text-align: center;
+}
+
 header ul li a {
     color: #fff;
     text-decoration: none;
